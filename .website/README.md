@@ -1,4 +1,8 @@
 ---
+genres:
+  - adventure
+  - puzzle
+  - narrative
 post: https://github.com/DennisBengs/retrohaunt/tree/master/postmortem
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
